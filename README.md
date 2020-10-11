@@ -20,8 +20,8 @@ My interest in software development started while I was working sales at Best Bu
 
 
 ## What am I doing now?
-Right now, I'm using my sales and Javascript skills help small businesses increase their productivity with custom automations. My main work is with G Suite and Google Apps Scripts. I also have helped create IoT integrations with software such as IFTTT and Zapier.
+Right now, I'm using my sales and Javascript skills to help small businesses increase their productivity with custom automations. My main work is with G Suite and Google Apps Scripts. I also help create IoT integrations with services like IFTTT and Zapier.
 
 
 ## Future Goals and Hobbies
-In my free time, I create personal automations with Siri Shortcuts, Home Assistant on a Raspberry Pi and Slack bots. I'm also learning more about databases and how to work with Serverless technologies like Firebase and AWS.
+In my free time, I create personal automations with Siri Shortcuts, manage my home with Home Assistant on a Raspberry Pi and create personal assistants with Slack bots. I'm also learning more about databases and how to work with Serverless technologies like Firebase and AWS.
